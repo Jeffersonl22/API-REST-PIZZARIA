@@ -1,0 +1,298 @@
+
+[
+  {
+    "numeroPedido": 1,
+    "descricao": "pizza",
+    "sabor": "calabresa",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+  {
+    "numeroPedido": 2,
+    "descricao": "pizza",
+    "sabor": "portuguesa",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 3,
+    "descricao": "pizza",
+    "sabor": "moda da casa",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 4,
+    "descricao": "pizza",
+    "sabor": "frango",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 5,
+    "descricao": "pizza",
+    "sabor": "4 queijos",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 6,
+    "descricao": "pizza",
+    "sabor": "atum",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 7,
+    "descricao": "pizza",
+    "sabor": "vegetariana",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+  
+  {
+    "numeroPedido": 8,
+    "descricao": "pizza",
+    "sabor": "palmito",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 9,
+    "descricao": "pizza",
+    "sabor": "mussarela",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 10,
+    "descricao": "pizza",
+    "sabor": "chocolate",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 11,
+    "descricao": "pizza",
+    "sabor": "calabresa",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+  {
+    "numeroPedido": 12,
+    "descricao": "pizza",
+    "sabor": "portuguesa",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 13,
+    "descricao": "pizza",
+    "sabor": "moda da casa",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 14,
+    "descricao": "pizza",
+    "sabor": "frango",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 15,
+    "descricao": "pizza",
+    "sabor": "4 queijos",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 16,
+    "descricao": "pizza",
+    "sabor": "atum",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 17,
+    "descricao": "pizza",
+    "sabor": "vegetariana",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+  
+  {
+    "numeroPedido": 18,
+    "descricao": "pizza",
+    "sabor": "palmito",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 19,
+    "descricao": "pizza",
+    "sabor": "mussarela",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 20,
+    "descricao": "pizza",
+    "sabor": "chocolate",
+    "tamanho": "média",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 21,
+    "descricao": "pizza",
+    "sabor": "calabresa",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+  {
+    "numeroPedido": 22,
+    "descricao": "pizza",
+    "sabor": "portuguesa",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 23,
+    "descricao": "pizza",
+    "sabor": "moda da casa",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 24,
+    "descricao": "pizza",
+    "sabor": "frango",
+    "tamanho": "grande",
+    "preco": "27.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 25,
+    "descricao": "pizza",
+    "sabor": "4 queijos",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 26,
+    "descricao": "pizza",
+    "sabor": "atum",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 27,
+    "descricao": "pizza",
+    "sabor": "vegetariana",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+  
+  {
+    "numeroPedido": 28,
+    "descricao": "pizza",
+    "sabor": "palmito",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 29,
+    "descricao": "pizza",
+    "sabor": "mussarela",
+    "tamanho": "grande",
+    "preco": "32.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 30,
+    "descricao": "pizza",
+    "sabor": "chocolate",
+    "tamanho": "pequena",
+    "preco": "20.00",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 31,
+    "descricao": "refrigerante",
+    "sabor": "guaraná",
+    "tamanho": "lata",
+    "preco": "04.50",
+    "tempoPreparo": ""
+  },
+
+  {
+    "numeroPedido": 32,
+    "descricao": "refrigerante",
+    "sabor": "uva",
+    "tamanho": "lata",
+    "preco": "04.50",
+    "tempoPreparo": "45 minutos"
+  },
+
+  {
+    "numeroPedido": 33,
+    "descricao": "suco",
+    "sabor": "laranja",
+    "tamanho": "copo de 300ml",
+    "preco": "05.00",
+    "tempoPreparo": "3 minutos"
+  }
+
+  
+]
