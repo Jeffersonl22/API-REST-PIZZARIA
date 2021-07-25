@@ -292,6 +292,15 @@
     "tamanho": "copo de 300ml",
     "preco": "05.00",
     "tempoPreparo": "3 minutos"
+  },
+  
+  {
+    "numeroPedido": 34,
+    "descricao": "suco",
+    "sabor": "maracujá",
+    "tamanho": "copo de 300ml",
+    "preco": "05.00",
+    "tempoPreparo": "3 minutos"
   }
 
   
