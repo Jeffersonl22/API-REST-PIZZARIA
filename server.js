@@ -13,11 +13,11 @@ const data = require("./data.json");
 
 app.use(express.json());
 
-app.get("/clients", function(req, res) {
+app.get("/produtos", function(req, res) {
   res.json(data);
 });
 
-app.get("/clients/:numeroPedido", function(req, res) {
+app.get("/produtos/:numeroPedido", function(req, res) {
   const { numeroPedido } = req.params;
   const client = data.find(cli => cli.numeroPedido == numeroPedido);
 
@@ -26,7 +26,7 @@ app.get("/clients/:numeroPedido", function(req, res) {
   res.json(client);
 });
 
-app.post("/clients", function(req, res) {
+app.post("/produtos", function(req, res) {
   const { numeroPedido, descricao, sabor, tamanho, preco, tempoPreparo } = req.body;
 
   // salvar novo produto
@@ -34,7 +34,7 @@ app.post("/clients", function(req, res) {
   res.json({ numeroPedido, descricao, sabor, tamanho, preco, tempoPreparo });
 });
 
-app.put("/clients/:numeroPedido", function(req, res) {
+app.put("/produtos/:numeroPedido", function(req, res) {
   const { numeroPedido } = req.params;
   const client = data.find(cli => cli.numeroPedido == numeroPedido);
 
@@ -47,7 +47,7 @@ app.put("/clients/:numeroPedido", function(req, res) {
   res.json(client);
 });
 
-app.delete("/clients/:numeroPedido", function(req, res) {
+app.delete("/produtos/:numeroPedido", function(req, res) {
   const { numeroPedido } = req.params;
   const clientsFiltered = data.filter(client => client.numeroPedido != numeroPedido);
 
