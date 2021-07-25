@@ -273,7 +273,7 @@
     "sabor": "guaraná",
     "tamanho": "lata",
     "preco": "04.50",
-    "tempoPreparo": ""
+    "tempoPreparo": "imediato"
   },
 
   {
@@ -282,7 +282,7 @@
     "sabor": "uva",
     "tamanho": "lata",
     "preco": "04.50",
-    "tempoPreparo": "45 minutos"
+    "tempoPreparo": "imediato"
   },
 
   {
