@@ -6,7 +6,7 @@
  Essa é uma API REST que permite interagir com um arquivo data.json no servidor. O conteúdo simula produtos de uma pizzaria e foi testada usando o Insomnia a partir das requisições HTTP.    
 
 
-### VOCÊ SABE O QUE SÃO VERBOS HTTP?
+### VOCÊ SABE O QUE FAZEM OS VERBOS HTTP?
 
 - GET: Receber dados de um Resource.
 - POST: Enviar dados ou informações para serem processados por um Resource.
@@ -29,7 +29,7 @@ Abra o Insomnia, PostMan ou outro software de sua escolha para testar as seguint
 
 4- Insira https://api-rest-pizzaria.herokuapp.com/produtos + numeroPedido no campo de URL da plataforma escolhida e selecione o verbo DELETE para deletar um pedido.
 
-5- Insira https://api-rest-pizzaria.herokuapp.com/produtos + numeroPedido no campo de URL da plataforma esolhida e seleciona o verbo PUT para atualizar os dados.
+5- Insira https://api-rest-pizzaria.herokuapp.com/produtos + numeroPedido no campo de URL da plataforma esolhida e selecione o verbo PUT  para  atualizar o numero do pedido e sabor.
 
 ### COMO REPLICAR ESSE PROJETO
 
