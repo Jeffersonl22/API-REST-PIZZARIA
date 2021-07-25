@@ -1,9 +1,23 @@
 {
-  "name": "AtividadeApi",
+  "name": "atividadeapi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Essa é uma API REST que permite interagir com um arquivo data.json no servidor.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffersonl22/API-REST-PIZZARIA.git"
+  },
+  "author": "Jefferson Silva Lopes",
+  "bugs": {
+    "url": "https://github.com/Jeffersonl22/API-REST-PIZZARIA/issues"
+  },
+  "homepage": "https://github.com/Jeffersonl22/API-REST-PIZZARIA#readme"
 }
